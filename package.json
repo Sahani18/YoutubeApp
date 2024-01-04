@@ -1,0 +1,16 @@
+{
+  "name": "youtubeclone",
+  "version": "1.0.0",
+  "description": "A youtube clone backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Sahani",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.1"
+  }
+}
